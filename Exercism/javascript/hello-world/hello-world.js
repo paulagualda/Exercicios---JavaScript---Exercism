@@ -4,5 +4,7 @@
 //
 
 export const hello = () => {
-  throw new Error("Remove this statement and implement this function");
+  document.write('Hello');
+  alert('Hello');
+  console.log('Hello');
 };
